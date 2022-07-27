@@ -1,6 +1,8 @@
 
 ### Olá! Eu sou o Vinicius Marques Moreira 🤙🏿
 
+<p align="left"><img src=https://komarev.com/ghpvc/?username=vinnemarques alt=ale94lko/></p> 
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinneh.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-marques-moreira-62550018a/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/vinneh.dev/)
@@ -22,7 +24,6 @@
 ##
 
 ## Nunca desista dos seus sonhos 🚀🚀🚀
-
 
 
 ### Contato: - [Entre em contato!](https://api.whatsapp.com/send?phone=5511979891141&text=Ol%C3%A1%20Vinicius%20tudo%20bem%20%3F%20Vi%20seu%20perfil%20no%20Github.)
